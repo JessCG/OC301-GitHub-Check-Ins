@@ -2,7 +2,7 @@
 Repository for students to upload individual GitHub check-ins
 
 # Instructions
-Check-ins should be `pushed` to GitHub on every day that there is a lecture. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. OC 301 has a total of 19 lectures, so you can miss up to 4 GitHub check-ins without affecting your grade.
+Check-ins should be `pushed` to GitHub on every lecture day. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. OC 301 has a total of 20 lectures, so you can miss up to 5 GitHub check-ins without affecting your grade.
 
 ## 1. Create a GitHub account and join our classroom (once; HW0)
 After **Lecture 0**, you should have created a [GitHub](https://github.com/) account and joined our GitHub classroom where you will find your own private copy of this repository. 
@@ -20,9 +20,9 @@ a) Log into the Jupyter Server
 
 b) Open Terminal
 
-c) Navigate to your `OC301_GitHubCheckIns-username` directory (replace `username` by your GitHub username):
+c) Navigate to your `OC301-GitHubCheckIns-username` directory (replace `username` by your GitHub username):
 
-    cd ~/OC301_GitHubCheckIns-username
+    cd ~/OC301-GitHubCheckIns-username
 
 d) `Pull` the latest version of the directory from GitHub:
 
