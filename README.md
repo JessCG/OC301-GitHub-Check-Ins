@@ -52,7 +52,7 @@ i) `Push` the changes to GitHub (you might have to enter your passphrase):
 
     git push
 
-<h3 align="center"><u>To receive credit for a check-in, the file must appear online on GitHub on the right lecture day.</u> </h2>
+<p align="center"><strong>***To receive credit for a check-in, the file must appear online on GitHub on the right lecture day.*** </strong></p>
 
 j) You can confirm that your repository is up to date with the online version on GitHub:
 
