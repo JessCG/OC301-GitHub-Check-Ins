@@ -1,11 +1,11 @@
-# OC301_GitHubCheckIns
+# OC301-GitHubCheckIns
 Repository for students to upload individual GitHub check-ins
 
 # Instructions
 Check-ins should be `pushed` to GitHub on every lecture day. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. OC 301 has a total of 20 lectures, so you can miss up to 5 GitHub check-ins without affecting your grade.
 
 ## 1. Create a GitHub account and join our classroom (once; HW0)
-After **Lecture 0**, you should have created a [GitHub](https://github.com/) account and joined our GitHub classroom where you will find your own private copy of this repository. 
+After **Lecture 0**, you should have created a [GitHub](https://github.com/) account and accepted an invitation to the `OceanographicDataAnalysis` organization.
 
 ## 2. Set up ssh keys (once; HW1)
 In **Lecture 1**, you will set up ssh keys on our Jupyter Server to be ready for the GitHub check-ins. Tailored instructions will be provided in HW1 and are also [available online](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (select 'Linux' for the server or Windows/Mac for your own computer).
@@ -28,7 +28,7 @@ d) `Pull` the latest version of the directory from GitHub:
 
     git pull
 
-Typically, you should see the following message appear, unless you forgot to `push` your last check-in (no big deal):
+Typically, you should see the following message appear, unless you forgot to `push` your last check-in:
 
     Already up to date.
 
@@ -52,8 +52,9 @@ i) `Push` the changes to GitHub (you might have to enter your passphrase):
 
     git push
 
+<h3 align="center"><u>To receive credit for a check-in, the file must appear online on GitHub on the right lecture day.</u> </h2>
 
-j) Confirm that your repository is up to date with the version on GitHub:
+j) You can confirm that your repository is up to date with the online version on GitHub:
 
     git status
 
