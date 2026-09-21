@@ -2,7 +2,7 @@
 Repository for students to upload individual GitHub check-ins
 
 # Instructions
-Check-ins should be `pushed` to GitHub on every lecture day. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. OC 301 has a total of 20 lectures, so you can miss up to 5 GitHub check-ins without affecting your grade.
+Check-ins should be `pushed` to GitHub on every lecture day. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. There will be 19 opportunities to complete a GitHub check-in, so you can miss up to 4 check-ins without affecting your grade.
 
 ## 1. Create a GitHub account, join our classroom, and accept the assignment (once; HW0)
 After **Lecture 0**, you should have created a [GitHub](https://github.com/) account, accepted an invitation to the `OceanographicDataAnalysis` organization, and accepted the `OC301-GitHub-Check-Ins` assignment.
