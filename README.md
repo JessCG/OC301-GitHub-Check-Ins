@@ -1,11 +1,11 @@
-# OC301-GitHubCheckIns
+# OC301-GitHub-Check-Ins
 Repository for students to upload individual GitHub check-ins
 
 # Instructions
 Check-ins should be `pushed` to GitHub on every lecture day. This can be done remotely, as long as you have access to the Jupyter Server (remember that you need [OSU's VPN](https://uit.oregonstate.edu/vpn) to access the server remotely). Each GitHub check-in is worth 1\% for a total of 15\%. OC 301 has a total of 20 lectures, so you can miss up to 5 GitHub check-ins without affecting your grade.
 
-## 1. Create a GitHub account and join our classroom (once; HW0)
-After **Lecture 0**, you should have created a [GitHub](https://github.com/) account and accepted an invitation to the `OceanographicDataAnalysis` organization.
+## 1. Create a GitHub account, join our classroom, and accept the assignment (once; HW0)
+After **Lecture 0**, you should have created a [GitHub](https://github.com/) account, accepted an invitation to the `OceanographicDataAnalysis` organization, and accepted the `OC301-GitHub-Check-Ins` assignment.
 
 ## 2. Set up ssh keys (once; HW1)
 In **Lecture 1**, you will set up ssh keys on our Jupyter Server to be ready for the GitHub check-ins. Tailored instructions will be provided in HW1 and are also [available online](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (select 'Linux' for the server or Windows/Mac for your own computer).
@@ -20,9 +20,9 @@ a) Log into the Jupyter Server
 
 b) Open Terminal
 
-c) Navigate to your `OC301-GitHubCheckIns-username` directory (replace `username` by your GitHub username):
+c) Navigate to your `oc301-fa26-checkins-username` directory (replace `username` by your GitHub username):
 
-    cd ~/OC301-GitHubCheckIns-username
+    cd ~/oc301-fa26-checkins-username
 
 d) `Pull` the latest version of the directory from GitHub:
 
